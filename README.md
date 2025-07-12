@@ -8,4 +8,4 @@ The main scripts i will be using to analyse and customise the BCN meshes for the
    <img width="365" height="275" alt="image" src="https://github.com/user-attachments/assets/426183c4-930c-4b4c-a0c4-2a608241f94d" />
 
 2. fix_Poscar -
-   This code can be used to fix the POSCAR in case the elements are not alligned properly, as this could have adverse effect while choosing the POTCAR file. I am using this to because when I am exchanging the atoms in the POSCAR, it is just changing the coordinate point and inserting a new code like N001 ec. This script can be used to change this.
+   This code can be used to fix the POSCAR in case the elements are not alligned properly, as this could have adverse effect while choosing the POTCAR file. I am using this to because when I am exchanging the atoms in the POSCAR, it is just changing the coordinate point and inserting a new code like N001 etc. This script can be used to change this.
